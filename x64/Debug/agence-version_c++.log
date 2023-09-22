@@ -1,0 +1,4 @@
+﻿  agence-version_c++.cpp
+C:\Users\2130515\Documents\Code\JeuxVideo\agence-version_c++\Station.h(5,11): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\2130515\Documents\Code\JeuxVideo\agence-version_c++\agence-version_c++.cpp(16,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  agence-version_c++.vcxproj -> C:\Users\2130515\Documents\Code\JeuxVideo\agence-version_c++\x64\Debug\agence-version_c++.exe
